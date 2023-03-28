@@ -1,0 +1,12 @@
+Package: learnMandarinR
+Type: Package
+Title: Learn chinese with R
+Version: 0.1.0
+Author: Anders G. Kristensen
+Maintainer: <andersgantzhorn@gmail.com>
+Description: Games implemented to make learning mandarin more fun - implemented using the pseudo random numbers in R.
+License: GNU General Public License v3.0
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2023-03-27 20:12:29 UTC; anders
